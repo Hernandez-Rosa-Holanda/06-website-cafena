@@ -26,5 +26,6 @@
 <h2>Autor</h2> 
 <p>
 <a href="https://www.linkedin.com/in/hernandez-rosa-de-holanda/">Perfil do Linkedin</a>
+ <a href="https://coffee-shop-website.vercel.app">Visuzalização</a>
 </p>
 </div> 
