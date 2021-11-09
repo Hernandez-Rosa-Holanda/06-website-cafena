@@ -4,7 +4,7 @@
   <h3>Coffee Shop</h3> 
   <p>
     Projeto feito com o intuito de atender as necessidades de um Coffee Shop, usei Html semântico, trabalhei técnicas de responsividade e manipulei o DOM com javascript deixando a página mais dinâmica.
-   Link para visuzalização: <a href="https://coffee-shop-website.vercel.app/">
+   Link para visuzalização: <a href="https://coffee-shop-website.vercel.app/"></a>
   </p>
 <h2>Layout</h2>
 
