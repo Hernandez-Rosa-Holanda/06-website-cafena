@@ -3,7 +3,7 @@
 
   <h3>Coffee Shop</h3> 
   <p>
-    Projeto feito com o intuito de atender as necessidades de um Coffee Shop, usei Html semântico, trabalhei técnicas de responsividade e manipulei o DOM com javascript deixando a página mais dinâmica.
+    Site desenvolvido para um Coffee Shop.
   </p>
 <h2>Layout</h2>
 
